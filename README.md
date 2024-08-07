@@ -25,3 +25,8 @@ List down all Pokemons->method:GET,
 url:http://localhost:8080/api/pokemons
 get pokemon owners -> method:GET, 
 url:http://localhost:8080/api/pokemon-owners
+To create tables in mysql database steps
+create Database pokemons
+use pokemos 
+create table pokemons
+craete table pokemons_owner
